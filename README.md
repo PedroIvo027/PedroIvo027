@@ -29,6 +29,3 @@ Atualmente focado em fortalecer lógica de programação e estruturas básicas, 
 
 ---
 
-### 💻 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroIvo027&layout=compact&langs_count=6)
